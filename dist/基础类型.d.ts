@@ -1,0 +1,14 @@
+declare const isLoading: boolean;
+declare const num1: number;
+declare const num2: number;
+declare function add(a: number, b: number): number;
+declare const str: string;
+declare function test(): void;
+declare const void1: void;
+declare const null1: null;
+declare const undefined1: undefined;
+declare const sym1: symbol;
+declare const sym2: symbol;
+declare const max: number;
+declare const max1: bigint;
+declare const max2: bigint;
